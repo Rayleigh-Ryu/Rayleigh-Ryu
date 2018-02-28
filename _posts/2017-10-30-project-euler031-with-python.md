@@ -3,7 +3,7 @@ layout: post
 title: "Project Euler031 with python"
 description: ""
 date: 2017-10-30
-tags: algorithm,python,math
+tags: [algorithm,python,math]
 comments: true
 ---
 

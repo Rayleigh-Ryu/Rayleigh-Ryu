@@ -3,7 +3,7 @@ layout: post
 title: "Posting with jupyter notebook"
 description: "jupyter로 블로깅하기"
 date: 2017-12-29
-tags: jupyter,python
+tags: [jupyter, python]
 comments: true
 mathjax: true
 ---
@@ -156,7 +156,7 @@ plt.show()
     > jupyter nbconvert --to html 변환시킬파일.ipynb
     > jupyter nbconvert --to html --template basic 변환시킬파일.ipynb
 ```
-두가지 명령어가 존재하는데, 
+두가지 명령어가 존재하는데,
     - 첫번째는 사실 뒤의 옵션이 `--template full`이 생략된것이다. 즉 full page의 html을 렌더링을 한다.
     - 두번째는 full page가 아닌 최소화된 html을 만든다. 이미 존재하는 다른 html의 속에 넣을 때 사용하면 좋을 듯하다.
 
@@ -173,5 +173,3 @@ plt.show()
 
 
 [^1] 이거 은근 귀찮다 -_-;뭔가 방법을 찾아야할듯.
-
-

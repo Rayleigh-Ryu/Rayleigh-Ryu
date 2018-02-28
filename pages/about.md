@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/images/about_image.jpg"
+thumbnail: "assets/images/abuout_thumnail.jpg"
 tags: [About, Test]
 ---
 
@@ -43,5 +44,6 @@ tags: [About, Test]
 
 
 - Start at 5/21/2107 forth blog with Github [pages](https://pages.github.com).
+- updated at 28/2/2018 change skin.
 
--  I would like to add a word of gratitude to **Julia**.
+-  I would like to add a word of gratitude to Julia.

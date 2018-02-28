@@ -3,7 +3,7 @@ layout: post
 title: "Project Euler006 with python"
 description: ""
 date: 2017-11-01
-tags: algorithm,python,math
+tags: [algorithm, python, math]
 comments: true
 mathjax: true
 ---
